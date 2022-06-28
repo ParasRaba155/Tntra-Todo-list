@@ -1,0 +1,47 @@
+.InputTable td{
+  border : solid black;
+  padding:15px 10px 15px 10px;
+  text-align: center;
+}
+h1 {
+  margin : 65px;
+  font-size: 60px;
+}
+
+h2{
+  margin: 65px;
+}
+.InputTable {
+  margin : 85px  65px;
+}
+
+#InputSubmit{
+  background-color: blue;
+  padding : 5px 7px 5px 7px;
+}
+
+.OutputTable{
+  margin-left : 65px;
+}
+
+.OutputTable td{
+  border: solid black;
+  padding : 15px 60px 15px 60px;
+  text-align: center;
+}
+
+.DoneButton {
+  background-color: green;
+  padding: 5px 7px 5px 7px;
+  margin : 5px
+}
+
+.UnDoneButton {
+  background-color: yellow;
+  padding: 5px 7px 5px 7px;
+}
+
+.DeleteButton {
+  background-color: red;
+  padding: 5px 7px 5px 7px;
+}
